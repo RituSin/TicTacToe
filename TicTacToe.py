@@ -122,6 +122,7 @@ while True:
 					turn = 'Player 2'				 
 		else:
 			## Player Two turn
+			
 			#show the board
 			display_board(the_board)
 			
